@@ -1,0 +1,30 @@
+.square{
+    border: 1px solid black;
+    height: 250px;
+    width: 250px;
+    margin: auto;
+    border-radius: 5px;
+    padding: 2em;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.container{
+    margin: 5em;
+    height: 98vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid black:
+    align-items: center;
+
+}
+
+#datetime {
+    color: goldenrod;
+}
+
+html {
+    background-image: url('Back.jpeg');
+        opacity: `00%;
+
+}
